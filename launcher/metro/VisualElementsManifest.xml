@@ -1,0 +1,11 @@
+<Application>
+  <VisualElements
+      DisplayName='Majora's MOD v0.2b'
+      Logo='win8img\Logo.png'
+      SmallLogo='win8img\SmallLogo.png'
+      ForegroundText='light'
+      BackgroundColor='#7F006E'>
+    <DefaultTile ShowName='allLogos'/>
+    <SplashScreen Image='win8img\splash-620x300.png'/>
+  </VisualElements>
+</Application>
