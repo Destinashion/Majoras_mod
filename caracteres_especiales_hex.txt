@@ -1,1 +1,7 @@
 A4: ñ
+B1: Boton b (icono)
+01: Letras rojas
+02: Letras verdes
+00: Letras blancas
+AD: Abrir excalmacion
+AE: Abrir interrogacion
