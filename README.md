@@ -1,10 +1,11 @@
-Majoras_mod
+Majora's MOD
 ===========
 
-En desarrollo
+Nombre Clave: STMM
+Nombre Completo: Zelda Majora's MOD: deikybara's mask
 
-Hola, este es el fichero readme dentro del mod en github
+Actualmente en desarrollo (v0.2b)
 
-Solo quiero decir que no toquen o modifiquen nada a menos que tengan permiso
+No "toquen" nada si no tienen permiso o no saben hacerlo
 
-Igual aplica para el rom... NO LO ABRAN hasta que se los diga...
+Lo mismo aplica para el ROM
