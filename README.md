@@ -2,6 +2,7 @@ Majora's MOD
 ===========
 
 Nombre Clave: STMM
+
 Nombre Completo: Zelda Majora's MOD: deikybara's mask
 
 Actualmente en desarrollo (v0.2b)
