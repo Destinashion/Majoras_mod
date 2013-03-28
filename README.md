@@ -7,6 +7,8 @@ Nombre Completo: Zelda Majora's MOD: deikybara's mask
 
 Actualmente en desarrollo (v0.2b)
 
-No "toquen" nada si no tienen permiso o no saben hacerlo
+Proyecto colaborativo abierto
 
-Lo mismo aplica para el ROM
+Se aceptan colaboraciones de todos, pero por favor no hagas vandalismo
+
+Facebook: http://www.facebook.com/MajorasMod
